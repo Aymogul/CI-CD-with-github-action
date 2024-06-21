@@ -7,6 +7,7 @@ A GitHub Actions Workflow is a configurable, automated process that executes one
 
 ## Jobs
 A job is a unit of work that you can define to run sequentially or in parallel on a runner. Jobs in a workflow can be used to organize and configure the steps that are executed when a workflow is triggered.
+This highlights the major part of the workflow.
 
 ## Steps
 Steps refer to individual tasks that makes up a job. They define what actions GitHub should perform when a workflow is triggered. Steps are executed sequentially by default, meaning each step runs one after another unless specified otherwise.
